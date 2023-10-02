@@ -20,5 +20,6 @@ Construi uma simples API REST de Alunos e Cursos para treinar os conceitos de De
    * Mapear o objeto relacional com JPA
    * Configurar o Banco de Dados H2
    * Criar os Endpoints da API REST
+   * Documentar aplicação API Spring Boot com o Swagger
 
 
