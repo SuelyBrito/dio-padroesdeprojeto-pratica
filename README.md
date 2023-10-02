@@ -12,6 +12,7 @@ Construi uma simples API REST de Alunos e Cursos para treinar os conceitos de De
    * Inserir um novo aluno 
    * Alterar dados do aluno
    * Deletar um aluno especifico com seu id
+   * Documentar aplicação API Spring Boot com o Swagger
 # Objetivo:
 
    * Criar o projeto
